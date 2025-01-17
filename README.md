@@ -9,7 +9,10 @@
      - 📱 **Telegram:** [@alinaukhalova](https://t.me/alinaukhalova)  
      - 🌐 **LinkedIn:** [alina-ukhalova-169aa729b](https://www.linkedin.com/in/alina-ukhalova-169aa729b/)
  
-
+## Skills:
+- **Languages:** Python, SQL
+- **Tools:** pandas, matplotlib, seaborn, scikit-learn, numpy
+- **Boosting models:** CatBoost, LightGBM
 <!--
 **alinaukhalova/alinaukhalova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
