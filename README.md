@@ -1,4 +1,6 @@
-## Hi there 👋
+## Привет! 👋  
+
+Меня зовут Ухалова Алина, и я специалист в области анализа данных и машинного обучения. 
 
 <!--
 **alinaukhalova/alinaukhalova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
