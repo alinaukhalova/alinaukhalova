@@ -1,6 +1,6 @@
 ## Hello, I'm Alina Ukhalova
 
- I am a specialist in Data Science and Data Analysis
+ I am a specialist in Data Analysis
 
 - 🌍 **Location:** Moscow, Russia  
 - 🎓 **Education:** Yandex.Practicum, "Data Science Specialist"  
