@@ -5,7 +5,7 @@
 - 🌍 **Location:** Moscow, Russia  
 - 🎓 **Education:** Yandex.Practicum, "Data Science Specialist"  
 - 📬 **Contacts:**
-     - 📧 **Email:** [ukhalova.alina@gmail.com](mailto:ukhalova.alina@gmail.com)  
+     - 📧 **Email:** [ukhalova.alina@gmail.com](mailto:ukhalova.alina@yandex.ru)  
      - 💬 **Telegram:** [@alinaukhalova](https://t.me/alinaukhalova)  
      - 🌐 **LinkedIn:** [alina-ukhalova-169aa729b](https://www.linkedin.com/in/alina-ukhalova-169aa729b/)
  
